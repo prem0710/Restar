@@ -1,4 +1,4 @@
-# Restaurant Website: Culinary Delights
+# Restar 
 
 Welcome to my Restar website! This project showcases a beautifully crafted single-page website dedicated to four delicious dishes: **Mee Goreng**, **Apollo Fish**, **Italian Creamy Chicken**, and **Tangy Tamarind Prawn Curry**.
 
